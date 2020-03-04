@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This website if for Mimi
+          This website if for Mimi Shengsheng and Jiaojiao
         </p>        
       </header>
     </div>
